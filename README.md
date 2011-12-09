@@ -9,7 +9,7 @@ Set Up and Configuration
 * Clone the GitHub repo.
 * Modify the file "submit-report.php" and add the specifics of your Ushaidi installation in the declared constants at the top of the file.
 * Log in to your Tropo account (or [sign up for an account](https://www.tropo.com/account/register.jsp) - it's free).
-* Create a new Tropo scripting application, and use the contents of the "submit-report.php" file as a new hosted file.  Detailed instructions here on [creating a new Scripting application in Tropo are here](https://www.tropo.com/docs/scripting/creating_first_application.htm).
+* Create a new Tropo scripting application, and use the contents of the "submit-report.php" file as a new hosted file.  Detailed instructions on [creating a new Scripting application in Tropo are here](https://www.tropo.com/docs/scripting/creating_first_application.htm).
 * When your application is created, provision a new Voice + SMS number for your application.
 * Optionally, add an IM address for your app.
 
